@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "Example"
-date:   2014-09-09 22:37:00 +05:30
-categories: example
-author: pranavrajs
-github_repo_username: pranavrajs
-github_repo : swift
-comments: true
+title:  "Assignment 1"
+date:   2016-08-07
+dueDate: 2016-09-07 23:59:00 
+categories: assignment
+author: siyanz
 ---
 
 This is a sample post to denote the features of Swift theme . The theme consists of various share plugins , feedburner support , sitemap generation etc. You can configure the blog in similar way you use a word press blog

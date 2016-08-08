@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Donate
-permalink: /donate/
+title: Lab 1
+permalink: /lab1/
 ---
 
 
-Page is under construction and i'll be adding more details soon.
+This is for lab 1.
